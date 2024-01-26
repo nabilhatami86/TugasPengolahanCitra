@@ -24,4 +24,4 @@ Source code untuk mempercantik tampilan foto yang sudah usang dapat ditemukan pa
 
 
 
-#Terima kasih telah mengunjungi repositori ini. Jangan ragu untuk memberikan masukan atau melaporkan masalah. Selamat bereksperimen dengan pengolahan citra digital!
+Terima kasih telah mengunjungi repositori ini. Jangan ragu untuk memberikan masukan atau melaporkan masalah. Selamat bereksperimen dengan pengolahan citra digital!
