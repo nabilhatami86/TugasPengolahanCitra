@@ -2,6 +2,10 @@
 
 Selamat datang di repositori ini! Di sini saya menyimpan hasil tugas pengolahan citra digital saya. 
 
+## NAMA:
+    - Muhammad Nabil Hatami 
+    
+
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk melakukan pengolahan citra digital menggunakan berbagai teknik dan algoritma. Setiap langkah dalam proses pengolahan citra diimplementasikan dan dijelaskan dengan baik dalam kode sumber. 
 
