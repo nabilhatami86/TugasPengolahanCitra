@@ -11,16 +11,16 @@ Proyek ini bertujuan untuk melakukan pengolahan citra digital menggunakan berbag
 
 
 ## 1. Menyimpan dan Menampilkan Pesan dalam Gambar (2 Source Code)
-Source code untuk menyimpan dan menampilkan pesan dalam gambar dapat ditemukan pada branch `pesan-gambar`.
+Source code untuk menyimpan dan menampilkan pesan dalam gambar dapat ditemukan pada branch `[pesan-gambar](https://github.com/nabilhatami86/Display_Image_Messages)`.
 
 ## 2. Erase Background
-Source code untuk erase background dapat ditemukan pada branch `erase-background`.
+Source code untuk erase background dapat ditemukan pada branch `[erase-background](https://github.com/nabilhatami86/removeBG)`.
 
 ## 3. Blur Image
-Source code untuk melakukan blur pada gambar dapat ditemukan pada branch `blur-image`.
+Source code untuk melakukan blur pada gambar dapat ditemukan pada branch `[blur-image](https://github.com/nabilhatami86/BlurImage)`.
 
 ## 4. Mempercantik Tampilan Foto yang Sudah Usang
-Source code untuk mempercantik tampilan foto yang sudah usang dapat ditemukan pada branch `percantik-foto`.
+Source code untuk mempercantik tampilan foto yang sudah usang dapat ditemukan pada branch `[percantik-foto](https://github.com/nabilhatami86/FilterImage)`.
 
 
 
